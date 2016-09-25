@@ -18,6 +18,7 @@ Available addons
 addon | version | summary
 --- | --- | ---
 [account_analytic_plan_required](account_analytic_plan_required/) | 8.0.0.1.0 | Account Analytic Plan Required
+[account_analytic_project](account_analytic_project/) | 8.0.1.0.0 | Project and analytic account integration
 [account_analytic_required](account_analytic_required/) | 8.0.0.2.0 | Account Analytic Required
 [analytic_multicurrency](analytic_multicurrency/) | 8.0.1.0.0 | Multi-Currency in Analytic Accounting
 [analytic_partner](analytic_partner/) | 8.0.1.0.0 | Classify analytic entries by partner
@@ -25,6 +26,9 @@ addon | version | summary
 [analytic_partner_hr_timesheet_invoice](analytic_partner_hr_timesheet_invoice/) | 8.0.1.0.0 | Invoice analytic lines for the specific partner in them
 [mrp_analytic](mrp_analytic/) | 8.0.1.0.0 | Adds the analytic account to the production order
 [pos_analytic_by_config](pos_analytic_by_config/) | 8.0.1.0.0 | Use analytic account defined on POS configuration for POS orders
+[procurement_analytic](procurement_analytic/) | 8.0.1.0.0 | This module adds analytic account to procurements
+[product_analytic](product_analytic/) | 8.0.1.0.0 | Add analytic account on products and product categories
+[purchase_procurement_analytic](purchase_procurement_analytic/) | 8.0.1.0.0 | This module sets analytic account in purchase order line from procurement analytic account
 
 Unported addons
 ---------------
